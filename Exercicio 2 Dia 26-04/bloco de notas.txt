@@ -1,0 +1,11 @@
+Algoritmo CalculaValortotal
+   Entre com um valor para QTDE
+   Entre com um valor para VALOR
+   Faça VT = (QTDE * VALOR)
+   Mostre VT
+
+
+Teste de Mesa
+QTDE     VALOR     VT 
+5         8        40
+9         3        27
