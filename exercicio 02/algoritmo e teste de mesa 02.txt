@@ -1,0 +1,13 @@
+Algoritmo SomaQuadrado
+   Entre com um valor para n1,n2,n3,n4
+   Faça (n1*n1) + (n2*n2) + (n3*n3) + (n4*n4) = resultado_final
+   Mostre o resultado_final
+FimAlgoritmo 
+
+
+
+Teste de mesa
+
+n1    n2    n3    n4    resultado_final
+2     4     5     6     81
+6     3     7     8     158
